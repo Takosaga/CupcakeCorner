@@ -15,6 +15,7 @@
 		A5CF9A3A242ECC7100DDCE27 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5CF9A38242ECC7100DDCE27 /* LaunchScreen.storyboard */; };
 		A5CF9A4224300F2D00DDCE27 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CF9A4124300F2D00DDCE27 /* Order.swift */; };
 		A5CF9A442430126400DDCE27 /* AdressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CF9A432430126400DDCE27 /* AdressView.swift */; };
+		A5CF9A462430139F00DDCE27 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CF9A452430139F00DDCE27 /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		A5CF9A3B242ECC7100DDCE27 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A5CF9A4124300F2D00DDCE27 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		A5CF9A432430126400DDCE27 /* AdressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdressView.swift; sourceTree = "<group>"; };
+		A5CF9A452430139F00DDCE27 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				A5CF9A2D242ECC7000DDCE27 /* AppDelegate.swift */,
 				A5CF9A2F242ECC7000DDCE27 /* SceneDelegate.swift */,
 				A5CF9A31242ECC7000DDCE27 /* ContentView.swift */,
+				A5CF9A452430139F00DDCE27 /* CheckoutView.swift */,
 				A5CF9A4124300F2D00DDCE27 /* Order.swift */,
 				A5CF9A432430126400DDCE27 /* AdressView.swift */,
 				A5CF9A33242ECC7100DDCE27 /* Assets.xcassets */,
@@ -154,6 +157,7 @@
 			files = (
 				A5CF9A2E242ECC7000DDCE27 /* AppDelegate.swift in Sources */,
 				A5CF9A30242ECC7000DDCE27 /* SceneDelegate.swift in Sources */,
+				A5CF9A462430139F00DDCE27 /* CheckoutView.swift in Sources */,
 				A5CF9A4224300F2D00DDCE27 /* Order.swift in Sources */,
 				A5CF9A442430126400DDCE27 /* AdressView.swift in Sources */,
 				A5CF9A32242ECC7000DDCE27 /* ContentView.swift in Sources */,

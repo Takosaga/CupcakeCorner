@@ -48,7 +48,6 @@ struct ContentView: View {
                     AdressView(order: order)) {
                         Text("Delivery Details")
                     }
-                    
                 }
             }
         .navigationBarTitle("Cupcake Corner")
