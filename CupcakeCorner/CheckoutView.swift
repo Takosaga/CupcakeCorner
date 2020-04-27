@@ -19,9 +19,10 @@ struct CheckoutView: View {
             ScrollView {
                 VStack {
                     Image("cupcakes")
-                    .resizable()
-                    .scaledToFit()
+                        .resizable()
+                        .scaledToFit()
                         .frame(width: geo.size.width)
+                        .accessibility(hidden: true)
                     
                     Text("Your total is $\(self.order.cost, specifier: "%.2f")")
                         .font(.title)
